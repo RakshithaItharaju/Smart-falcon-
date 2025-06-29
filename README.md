@@ -49,10 +49,7 @@ REST API Endpoints
 docker build -t asset-api .
 .Run Container
 docker run -p 3000:3000 asset-api
+-----
 Developed By
-
----
-
-✅ Just replace:
 - ITHARAJU RAKSHITHA 
 - Sreenidhi institute of science and technology 
